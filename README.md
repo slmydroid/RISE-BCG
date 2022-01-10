@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏰 [3D work](https://drive.google.com/file/d/1KI712Oo1hdrvveViknzH6LrnKS8s15BZ/view?usp=sharing) 
 
 ### HELLO!
-I am __Shirley Lee__, an architecture trained designer traditionally, but also aspiring data analyst with ~1 years of experience in data analysis and python.
+I am __Shirley Lee__, an architecture trained designer traditionally, but also aspiring data analyst with ~1 year of experience in data analysis and python.
 
 [Education](#education) <br>
 [Projects](#projects) <br>
